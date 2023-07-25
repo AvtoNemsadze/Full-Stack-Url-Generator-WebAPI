@@ -1,4 +1,4 @@
-# Full-Stack-Url-Generator-WebAPI
+# Full-Stack-Url-Generator-Project
 Project Description:
 Full-Stack ASP.NET Web API / React.JS project with full CRUD functionality.
 Technology: 1) Backend: ASP.NET CORE 6, MS SQL Server, Entity Framework, 
